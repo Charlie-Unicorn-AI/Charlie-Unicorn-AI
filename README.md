@@ -76,12 +76,6 @@ We don’t follow trends — **we set them**.
 
 If you're here to collaborate, contribute, or learn more about **Charlie Unicorn AI**, you're in the right place. This GitHub is the home for our open-source tools, smart contracts, and ecosystem components.
 
-**📬 Connect with us**  
-→ Website: [Live](https://charlieunicornai.eu)
-→ Telegram Community: [Live & Growing](https://t.me/CharlieUnicornaiOfficial) 
-→ Twitter / X: [@CHRLEunicornAI](https://x.com/CHRLEunicornAI)
-→ Email: [dev.team@charlieunicorn.ai]
-
 ---
 
 ### 🌈 Be Part of the Unicorn Legacy.  
